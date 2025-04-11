@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Nayla's Schedule</title>
+</head>
+<body>
+       <tr>
+           <td>Monday</td>
+           <td>Tuesday</td>
+           <td>Wednesday</td>
+           <td>Thursday</td>
+           <td>Friday</td>
+           
+         <th>
+         	<td>CRYMA</td>
+         	<td>Freshman Advisory</td>
+         	<td>CRYMA</td>
+         	<td>Freshman Advisory</td>
+         	<td>CRYMA</td>
+     </tr>
+     
+         <tr>
+         
+         <td>Intro to web development</td>
+         <td>Intro to web development </td>
+         <td>Intro to web development</td>
+         <td>Intro to web development</td>
+         <td>Intro to web development</td>
+     </tr>
+      
+         <tr>
+         
+         <td>Alegbra</td>
+         <td>Alegbra</td>
+         <td>Alegbra</td>
+         <td>Alegbra</td>
+         <td>Alegbra</td>
+     </tr>
+       
+         <tr>
+         
+         <td>Global</td>
+         <td>Global</td>
+         <td>Global</td>
+         <td>Global</td>
+         <td>Global</td>
+    </tr>
+         
+         <tr>
+         
+         <td>Math Lab</td>
+         <td>Gym</td>
+         <td>Math Lab</td>
+         <td>Gym</td>
+         <td>Math Lab</td>
+    </tr>
+        
+         <tr>
+         
+         <td>Lunch</td>
+         <td>Lunch</td>
+         <td>Lunch</td>
+         <td>Lunch</td>
+         <td>Lunch</td>
+    </tr>
+    
+         <tr>
+         
+         <td>Biology</td>
+         <td>Biology</td>
+         <td>Biology</td>
+         <td>Biology</td>
+         <td>Biology</td>
+      </tr>
+    
+ <tr>
+         
+         <td>English</td>
+         <td>English</td>
+         <td>English</td>
+         <td>English</td>
+         <td>English</td>
+         
+       </tr>
+       
+        </table>
+         </body>
+          </html>
