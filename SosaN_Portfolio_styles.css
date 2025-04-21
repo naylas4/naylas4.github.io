@@ -1,1 +1,29 @@
+*{
+  box-sizing:border-box;
+}
 
+
+*.header{
+  text-align: center;
+  font: Times New Roman;
+  color: lavendar;
+  backround-color:baby blue;
+  font-size:40px;
+}
+
+*.header2{
+  text-align: center;
+  font: Times New Roman;
+  color: pink;
+  Backround-color: White;
+  font-size:40px;
+  
+}
+
+* .main{
+  text-align: right;
+  font: Times New Roman;
+  color: blue;
+  backround-color: white
+  font-size:30px;
+}
