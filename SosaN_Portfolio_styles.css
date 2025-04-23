@@ -5,25 +5,24 @@
 
 *.header{
   text-align: center;
-  font: Times New Roman;
-  color: lavendar;
-  backround-color:baby blue;
+  font:  Times New Roman;
+  color: lavender;
+  background-color:lightblue;
   font-size:40px;
 }
 
 *.header2{
-  text-align: center;
+   text-align: center;
   font: Times New Roman;
   color: pink;
-  Backround-color: White;
   font-size:40px;
-  
+
 }
 
-* .main{
-  text-align: right;
+*.main{
+   text-align: center;
   font: Times New Roman;
   color: blue;
-  backround-color: white;
   font-size:30px;
+ 
 }
