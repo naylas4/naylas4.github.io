@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Awesome Travel Page</title>
+  <style>
+    body {
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      background: linear-gradient(to right, #ffecd2, #fcb69f);
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #ff6f61;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+    }
+
+    nav {
+      background-color: #ffa07a;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    .content {
+      padding: 20px;
+      text-align: center;
+    }
+
+    .card {
+      background-color: white;
+      margin: 20px auto;
+      padding: 20px;
+      max-width: 500px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .card img {
+      width: 100%;
+      border-radius: 10px;
+    }
+
+    footer {
+      background-color: #ff6f61;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Travel the World with Me!</h1>
+    <p>Let’s explore awesome places together!</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Places</a>
+    <a href="#">Gallery</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <div class="content">
+    <div class="card">
+      <h2>Paris, France</h2>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tour_Eiffel_Wikimedia_Commons.jpg" alt="Eiffel Tower">
+      <p>I want to go to Paris because the Eiffel Tower looks super cool and the food is fancy!</p>
+    </div>
+
+    <div class="card">
+      <h2>Tokyo, Japan</h2>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Tokyo_Tower_and_around_Skyscrapers.jpg" alt="Tokyo Tower">
+      <p>Tokyo has awesome lights, tech, and sushi. I’d love to visit during cherry blossom season!</p>
+    </div>
+  </div>
+
+  <footer>
+    <p>Made with curiosity by a 9th grader. Thanks for visiting!</p>
+  </footer>
+</body>
+</html>
