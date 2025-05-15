@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Epic Travel Page</title>
+  <title>Traveling Around The World</title>
   <style>
     body {
-      background-color: #f0f8ff;
-      font-family: Arial, sans-serif;
+      background-color: lightblue;
+      font-family: Cursive;
       margin: 0;
       padding: 20px;
     }
 
     h1, h2, h3 {
-      color: #1e90ff;
+      color: Hotpink;
     }
 
     img {
@@ -46,22 +46,22 @@
 <body>
 
   <h1>Welcome to My Travel Page!</h1>
-  <p>This page is about awesome places I want to visit. I used everything I learned in HTML class!</p>
+  <p>This page is about awesome places I want to visit.</p>
 
   <hr>
 
   <div class="section">
     <h2>1. Heading & Paragraphs</h2>
-    <p>I love traveling to new places, seeing different cultures, and trying yummy food. Below are a few places I dream about visiting.</p>
+    <p>I love traveling to new places, seeing different cultures, and trying good food. Below are a few places I dream about visiting.</p>
   </div>
 
   <div class="section">
     <h2>2. Text Formatting</h2>
-    <p><b>Bold:</b> I really want to go to Japan.</p>
-    <p><i>Italic:</i> Italy has delicious food!</p>
-    <p><u>Underlined:</u> Australia is full of cool animals.</p>
-    <p><strong>Strong:</strong> I must go to New York someday!</p>
-    <p><em>Emphasized:</em> The beaches in Hawaii look beautiful.</p>
+    <p><b>Bold:</b> I really want to go to Paris.</p>
+    <p><i>Italic:</i> I hope Italy has delicious food I've been wanting to try.</p>
+    <p><u>Underlined:</u> London has great places to visit.</p>
+    <p><strong>Strong:</strong> I must go to Californa someday!</p>
+    <p><em>Emphasized:</em> The beaches in Puerto Rico look beautiful.</p>
   </div>
 
   <div class="section">
@@ -84,8 +84,8 @@
     <ol>
       <li>Paris</li>
       <li>Italy</li>
-      <li>Brazil</li>
-      <li>Canada</li>
+      <li>London</li>
+      <li>Californa</li>
     </ol>
   </div>
 
